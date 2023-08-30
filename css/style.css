@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color:  #e7e1c9;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center ;
+    color: black;
+   
+}
+
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+main{   
+    background-color: #f4f4f2;
+    height: 560px;
+}
+
+.conteiner{
+    margin: 0px 300px;
+    height: 500px;
+    position: relative;
+    top: 30px;
+    border-radius: 15px;
+    background-color: white;
+}
